@@ -10,8 +10,7 @@ Welcome to my GitHub profile!
 - 📫 How to reach me:  
   [📧 machireddyswathi90@gmail.com](mailto:machireddyswathi90@gmail.com)  
   [💼 LinkedIn](https://www.linkedin.com/in/swathi5854)
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I love solving real-world problems through code and I enjoy painting in my free time!
+
 
 ---
 
