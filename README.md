@@ -23,16 +23,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building int
 **Databases:** SQLite, PostgreSQL  
 **Tools:** Git, GitHub, Postman, VS Code  
 **AI/ML:** HuggingFace Transformers, NLP, Regression Models  
-
----
-
-## ⭐ Featured Projects  
-
-### 🔹 AI Complaint Analyzer  
-Full-stack AI-powered system for complaint classification, sentiment analysis, and priority management.  
-Live Demo: https://ai-complaint-analyzer.vercel.app  
-GitHub: https://github.com/Machireddyswathi/ai-complaint-analyzer  
-
 ---
 
 ## 📊 GitHub Stats  
